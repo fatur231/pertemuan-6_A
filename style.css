@@ -1,3 +1,13 @@
-body{
+/* colors */
+.name {
   color: red;
+}
+.rgb {
+  color: rgb(255, 100, 0);
+}
+.hex {
+  color: #bf00ff;
+}
+.hsl {
+  color: hsl(360, 100%, 90%);
 }
